@@ -1,5 +1,5 @@
 #### 这个repo源于一次公司内部的技术分享。
-#### 该repo有一篇对应的blog，也许你可以区[阅读](https://buildall.github.io/2016/04/26/scopeandclosure/)
+#### 该repo有一篇对应的blog，也许你可以去[阅读](https://buildall.github.io/2016/04/26/scopeandclosure/)
 ##### 本文事例代码请用node运行
 
 主题: 《你不知道的JavaScript》分享
